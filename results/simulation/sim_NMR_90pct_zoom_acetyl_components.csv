@@ -1,0 +1,5 @@
+group,species,multiplicity,intensity_ratio,n_lines,J_Hz,fwhm_Hz,group_delta_ppm,line_index,line_ppm,line_Hz,line_rel_intensity,line_height,protons_per_molecule,concentration,moles,group_area_in_window,group_area_pct_of_window,group_area_pct_of_carbon_bound,window_lo_ppm,window_hi_ppm
+exchangeable pool (H2O/OH/COOH),"water, ethylene glycol monoacetate, ethylene glycol, acetic acid",broad singlet (fast exchange),1,1,0.0,30.0,4.3447,0,4.3447,348.3,1.0,10.0,,,,0.032058,15.749,18.692,1.9,2.35
+EGDA CH3,ethylene glycol diacetate,singlet,1,1,0.0,1.5,2.14,0,2.14,171.56,1.0,0.06,6,0.01,0.01,0.001717,0.843,1.001,1.9,2.35
+EGMA CH3,ethylene glycol monoacetate,singlet,1,1,0.0,1.5,2.125,0,2.125,170.36,1.0,0.54,3,0.18,0.18,0.015451,7.59,9.009,1.9,2.35
+AcOH CH3,acetic acid,singlet,1,1,0.0,1.5,2.08,0,2.08,166.75,1.0,5.4,3,1.8,1.8,0.154335,75.818,89.99,1.9,2.35

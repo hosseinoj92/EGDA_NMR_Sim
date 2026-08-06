@@ -1,0 +1,3 @@
+group,species,multiplicity,intensity_ratio,n_lines,J_Hz,fwhm_Hz,group_delta_ppm,line_index,line_ppm,line_Hz,line_rel_intensity,line_height,protons_per_molecule,concentration,moles,group_area_in_window,group_area_pct_of_window,group_area_pct_of_carbon_bound,window_lo_ppm,window_hi_ppm
+EGDA O-CH2,ethylene glycol diacetate,singlet,1,1,0.0,1.5,4.335,0,4.335,347.53,1.0,4.0,4,1.0,1.0,0.116229,2.409,100.0,3.4,4.7
+exchangeable pool (H2O/OH/COOH),water,broad singlet (fast exchange),1,1,0.0,30.0,4.274,0,4.274,342.64,1.0,10.0,,,,4.708969,97.591,4051.453,3.4,4.7

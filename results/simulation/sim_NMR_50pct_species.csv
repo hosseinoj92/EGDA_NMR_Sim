@@ -1,0 +1,6 @@
+species,formula,role,molar_mass_g_per_mol,concentration_rel,moles,mass_g,mole_fraction_all,mole_fraction_glycol_pool,carbon_bound_H,exchangeable_H
+ethylene glycol diacetate,C6H10O4,reactant,146.14,0.25,0.25,36.535,0.00248,0.25,10,0
+ethylene glycol monoacetate,C4H8O3,intermediate,104.1,0.5,0.5,52.05,0.00495,0.5,7,1
+ethylene glycol,C2H6O2,product,62.07,0.25,0.25,15.5175,0.00248,0.25,4,2
+acetic acid,C2H4O2,product,60.05,1.0,1.0,60.05,0.0099,,3,1
+water,H2O,reactant,18.02,99.0,99.0,1783.98,0.9802,,0,2

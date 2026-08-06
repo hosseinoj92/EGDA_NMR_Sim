@@ -1,0 +1,9 @@
+group,species,region,delta_ppm,multiplicity,n_lines,J_Hz,protons_per_molecule,concentration,moles,area_under_curve,area_norm,area_percent
+EGDA O-CH2,ethylene glycol diacetate,backbone,4.335,singlet,1,0.0,4,0.25,0.25,0.029359,1.0001,0.486
+EGDA CH3,ethylene glycol diacetate,acetyl,2.14,singlet,1,0.0,6,0.25,0.25,0.044011,1.4992,0.728
+EGMA CH2-OC(O),ethylene glycol monoacetate,backbone,4.245,triplet,3,4.7,2,0.5,0.5,0.029359,1.0001,0.486
+EGMA CH2-OH,ethylene glycol monoacetate,backbone,3.78,triplet,3,4.7,2,0.5,0.5,0.029357,1.0,0.486
+EGMA CH3,ethylene glycol monoacetate,acetyl,2.125,singlet,1,0.0,3,0.5,0.5,0.044011,1.4992,0.728
+EG O-CH2,ethylene glycol,backbone,3.66,singlet,1,0.0,4,0.25,0.25,0.029356,1.0,0.486
+AcOH CH3,acetic acid,acetyl,2.08,singlet,1,0.0,3,1.0,1.0,0.088019,2.9983,1.456
+exchangeable pool (H2O/OH/COOH),"water, ethylene glycol monoacetate, ethylene glycol, acetic acid",exchangeable,4.3133,broad singlet,1,0.0,,,,5.751491,195.9201,95.145

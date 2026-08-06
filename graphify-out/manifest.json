@@ -1,0 +1,72 @@
+{
+  ".claude/settings.json": {
+    "mtime": 1786024788.359332,
+    "ast_hash": "b2e44a8f4ab59de810f28cd48226c93b",
+    "semantic_hash": "b2e44a8f4ab59de810f28cd48226c93b"
+  },
+  ".codex/hooks.json": {
+    "mtime": 1786024793.9093828,
+    "ast_hash": "907b547276dec91c51af3951c002ae9e",
+    "semantic_hash": "907b547276dec91c51af3951c002ae9e"
+  },
+  ".vscode/settings.json": {
+    "mtime": 1786024087.4064677,
+    "ast_hash": "4187c9ec9a7b623c0ac5d1ca338cb852",
+    "semantic_hash": "4187c9ec9a7b623c0ac5d1ca338cb852"
+  },
+  "Brucker_batch_extractor.py": {
+    "mtime": 1785152644.4609704,
+    "ast_hash": "c5efecd784226f30d8c44f28842b0549",
+    "semantic_hash": "c5efecd784226f30d8c44f28842b0549"
+  },
+  "analyze_real_nmr.py": {
+    "mtime": 1785156274.4833772,
+    "ast_hash": "80cb0301034b8b81cf4048ebebd84fd8",
+    "semantic_hash": "80cb0301034b8b81cf4048ebebd84fd8"
+  },
+  "kinetics_estimation.py": {
+    "mtime": 1785152420.4138987,
+    "ast_hash": "fdc085954afe0135e8dcd9e6a9d135fe",
+    "semantic_hash": "fdc085954afe0135e8dcd9e6a9d135fe"
+  },
+  "main.py": {
+    "mtime": 1785156121.7523506,
+    "ast_hash": "aa63131eaaf9c48d12eefbeb29bf2359",
+    "semantic_hash": "aa63131eaaf9c48d12eefbeb29bf2359"
+  },
+  "make_test_data.py": {
+    "mtime": 1785156169.960512,
+    "ast_hash": "d4053d11ffd6ed00bdcbabcb6ca51ed5",
+    "semantic_hash": "d4053d11ffd6ed00bdcbabcb6ca51ed5"
+  },
+  "plot_nmr.py": {
+    "mtime": 1785152635.3990903,
+    "ast_hash": "5f984308e6922c536104bf0cce019828",
+    "semantic_hash": "5f984308e6922c536104bf0cce019828"
+  },
+  "sim_nmr.py": {
+    "mtime": 1786024122.3406966,
+    "ast_hash": "107139b78f42f7be6ceeed96747540be",
+    "semantic_hash": "107139b78f42f7be6ceeed96747540be"
+  },
+  ".claude/CLAUDE.md": {
+    "mtime": 1786024788.3296413,
+    "ast_hash": "c232166e6492ba1ed955030b16979b05",
+    "semantic_hash": "c232166e6492ba1ed955030b16979b05"
+  },
+  "AGENTS.md": {
+    "mtime": 1786024793.9048066,
+    "ast_hash": "21ceb6533048be51308e69e7b74a35cf",
+    "semantic_hash": "21ceb6533048be51308e69e7b74a35cf"
+  },
+  "CLAUDE.md": {
+    "mtime": 1786024788.3546884,
+    "ast_hash": "8a6643a420fdad6bfb583523bc6cef16",
+    "semantic_hash": "8a6643a420fdad6bfb583523bc6cef16"
+  },
+  "README.md": {
+    "mtime": 1785161063.4594662,
+    "ast_hash": "2c5d537ff021be2f832cf0f4017d0ab2",
+    "semantic_hash": "2c5d537ff021be2f832cf0f4017d0ab2"
+  }
+}
